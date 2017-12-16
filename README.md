@@ -1,7 +1,6 @@
 # NG-ZORRO-TEMPLATE
 NG-ZORRO-TEMPLATE是基于阿里angular组件[NG-ZORRO](https://ng.ant.design/#/docs/angular/introduce)开发的一套企业后台管理系统模板。目的是简单、方便、快速的搭建一个企业后台管理系统。
 
-[在线Deom](https://alexspring123.github.io/NG-ZORRO-TEMPLATE)
 
 模板项目提供了登录页面、动态菜单、session存储、权限路由守卫等功能，您只需要开发对应的后台服务，即可实现一个简单的后台管理系统；
 
@@ -25,17 +24,6 @@ NG-ZORRO-TEMPLATE是基于阿里angular组件[NG-ZORRO](https://ng.ant.design/#/
 * [升级模板说明](#升级模板说明)
 * [部署说明](#部署说明)
 
-# 截图
-登录界面
-![登录界面](/doc/screen-snapshots/login-snapshot.png "登录界面")
-顶部菜单
-![顶部菜单](/doc/screen-snapshots/top-memu-snapshot.png "顶部菜单")
-左边菜单-展开
-![左边菜单-展开](/doc/screen-snapshots/left-menu-snapshot.png "左边菜单-展开")
-左边菜单-折叠
-![左边菜单-折叠](/doc/screen-snapshots/left-menu-snapshot2.png "左边菜单-折叠")
-修改密码
-![修改密码](/doc/screen-snapshots/change-pwd.png "修改密码")
 
 # 安装运行
 ## 准备工作
